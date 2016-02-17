@@ -1,0 +1,907 @@
+{
+    "totalCount": 129,
+    "start": 0,
+    "rows": 50,
+    "result": [
+        {
+            "id": "101",
+            "uri": "http://www.zaragoza.es/ciudad/viapublica/movilidad/bici/detalle_Bizi?oid=101",
+            "title": "C/ Doctor Iranzo -  C/ Escultor Benlliure",
+            "estado": "OPN",
+            "bicisDisponibles": 4,
+            "anclajesDisponibles": 16,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    678017.9803453928,
+                    4613320.634481554
+                ]
+            },
+            "lastUpdated": "2016-02-17T10:42:00Z",
+            "description": "<ul><li>Estado: Operativa</li><li>Bicis disponibles: 4</li><li>Anclajes disponibles: 16</li></ul><p>Actualizado: 10:42</p>",
+            "icon": "http://www.zaragoza.es/contenidos/iconos/bizi/conbicis.png"
+        },
+        {
+            "id": "102",
+            "uri": "http://www.zaragoza.es/ciudad/viapublica/movilidad/bici/detalle_Bizi?oid=102",
+            "title": "C/ Pedro Joaquín Soler - Coso",
+            "estado": "OPN",
+            "bicisDisponibles": 14,
+            "anclajesDisponibles": 7,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    676822.7225656463,
+                    4613438.861592172
+                ]
+            },
+            "lastUpdated": "2016-02-17T10:42:00Z",
+            "description": "<ul><li>Estado: Operativa</li><li>Bicis disponibles: 14</li><li>Anclajes disponibles: 7</li></ul><p>Actualizado: 10:42</p>",
+            "icon": "http://www.zaragoza.es/contenidos/iconos/bizi/conbicis.png"
+        },
+        {
+            "id": "103",
+            "uri": "http://www.zaragoza.es/ciudad/viapublica/movilidad/bici/detalle_Bizi?oid=103",
+            "title": "C/ Lacarra de Miguel - C/ San Vicente Martir",
+            "estado": "OPN",
+            "bicisDisponibles": 8,
+            "anclajesDisponibles": 13,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    676517.3458413489,
+                    4612706.090795129
+                ]
+            },
+            "lastUpdated": "2016-02-17T10:42:00Z",
+            "description": "<ul><li>Estado: Operativa</li><li>Bicis disponibles: 8</li><li>Anclajes disponibles: 13</li></ul><p>Actualizado: 10:42</p>",
+            "icon": "http://www.zaragoza.es/contenidos/iconos/bizi/conbicis.png"
+        },
+        {
+            "id": "104",
+            "uri": "http://www.zaragoza.es/ciudad/viapublica/movilidad/bici/detalle_Bizi?oid=104",
+            "title": "C/ Madre Rafols - Esquina D.G.A.",
+            "estado": "OPN",
+            "bicisDisponibles": 8,
+            "anclajesDisponibles": 13,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    675841.2652424083,
+                    4613665.173932331
+                ]
+            },
+            "lastUpdated": "2016-02-17T10:42:00Z",
+            "description": "<ul><li>Estado: Operativa</li><li>Bicis disponibles: 8</li><li>Anclajes disponibles: 13</li></ul><p>Actualizado: 10:42</p>",
+            "icon": "http://www.zaragoza.es/contenidos/iconos/bizi/conbicis.png"
+        },
+        {
+            "id": "108",
+            "uri": "http://www.zaragoza.es/ciudad/viapublica/movilidad/bici/detalle_Bizi?oid=108",
+            "title": "Plaza Emperador Carlos V",
+            "estado": "OPN",
+            "bicisDisponibles": 14,
+            "anclajesDisponibles": 6,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    675140.5935417248,
+                    4611902.584283834
+                ]
+            },
+            "lastUpdated": "2016-02-17T10:42:00Z",
+            "description": "<ul><li>Estado: Operativa</li><li>Bicis disponibles: 14</li><li>Anclajes disponibles: 6</li></ul><p>Actualizado: 10:42</p>",
+            "icon": "http://www.zaragoza.es/contenidos/iconos/bizi/conbicis.png"
+        },
+        {
+            "id": "113",
+            "uri": "http://www.zaragoza.es/ciudad/viapublica/movilidad/bici/detalle_Bizi?oid=113",
+            "title": "Vía Hispanidad - Avda. Gómez Laguna",
+            "estado": "OPN",
+            "bicisDisponibles": 5,
+            "anclajesDisponibles": 16,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    673818.3928125117,
+                    4612194.426397253
+                ]
+            },
+            "lastUpdated": "2016-02-17T10:42:00Z",
+            "description": "<ul><li>Estado: Operativa</li><li>Bicis disponibles: 5</li><li>Anclajes disponibles: 16</li></ul><p>Actualizado: 10:42</p>",
+            "icon": "http://www.zaragoza.es/contenidos/iconos/bizi/conbicis.png"
+        },
+        {
+            "id": "115",
+            "uri": "http://www.zaragoza.es/ciudad/viapublica/movilidad/bici/detalle_Bizi?oid=115",
+            "title": "Vía Hispanidad - C/ Océano Atlántico",
+            "estado": "OPN",
+            "bicisDisponibles": 6,
+            "anclajesDisponibles": 15,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    673535.126796119,
+                    4612856.6010818435
+                ]
+            },
+            "lastUpdated": "2016-02-17T10:42:00Z",
+            "description": "<ul><li>Estado: Operativa</li><li>Bicis disponibles: 6</li><li>Anclajes disponibles: 15</li></ul><p>Actualizado: 10:42</p>",
+            "icon": "http://www.zaragoza.es/contenidos/iconos/bizi/conbicis.png"
+        },
+        {
+            "id": "118",
+            "uri": "http://www.zaragoza.es/ciudad/viapublica/movilidad/bici/detalle_Bizi?oid=118",
+            "title": "Avda. Juan Pablo II - Avda. Gómez Laguna",
+            "estado": "OPN",
+            "bicisDisponibles": 4,
+            "anclajesDisponibles": 17,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    674126.8415899678,
+                    4612286.664687123
+                ]
+            },
+            "lastUpdated": "2016-02-17T10:42:00Z",
+            "description": "<ul><li>Estado: Operativa</li><li>Bicis disponibles: 4</li><li>Anclajes disponibles: 17</li></ul><p>Actualizado: 10:42</p>",
+            "icon": "http://www.zaragoza.es/contenidos/iconos/bizi/conbicis.png"
+        },
+        {
+            "id": "119",
+            "uri": "http://www.zaragoza.es/ciudad/viapublica/movilidad/bici/detalle_Bizi?oid=119",
+            "title": "Avda. Juan Carlos I - C/ Ramón Sainz de Varanda",
+            "estado": "OPN",
+            "bicisDisponibles": 4,
+            "anclajesDisponibles": 17,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    674353.1383456963,
+                    4611979.637886653
+                ]
+            },
+            "lastUpdated": "2016-02-17T10:42:00Z",
+            "description": "<ul><li>Estado: Operativa</li><li>Bicis disponibles: 4</li><li>Anclajes disponibles: 17</li></ul><p>Actualizado: 10:42</p>",
+            "icon": "http://www.zaragoza.es/contenidos/iconos/bizi/conbicis.png"
+        },
+        {
+            "id": "120",
+            "uri": "http://www.zaragoza.es/ciudad/viapublica/movilidad/bici/detalle_Bizi?oid=120",
+            "title": "C/ Asín y Palacios - C/ Pedro IV El Ceremonioso",
+            "estado": "OPN",
+            "bicisDisponibles": 3,
+            "anclajesDisponibles": 16,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    674454.0980053664,
+                    4611556.142109903
+                ]
+            },
+            "lastUpdated": "2016-02-17T10:42:00Z",
+            "description": "<ul><li>Estado: Operativa</li><li>Bicis disponibles: 3</li><li>Anclajes disponibles: 16</li></ul><p>Actualizado: 10:42</p>",
+            "icon": "http://www.zaragoza.es/contenidos/iconos/bizi/conbicis.png"
+        },
+        {
+            "id": "121",
+            "uri": "http://www.zaragoza.es/ciudad/viapublica/movilidad/bici/detalle_Bizi?oid=121",
+            "title": "C/ Eduardo Ibarra - C/ Violante de Hungría",
+            "estado": "OPN",
+            "bicisDisponibles": 12,
+            "anclajesDisponibles": 9,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    674849.903485189,
+                    4612042.595863729
+                ]
+            },
+            "lastUpdated": "2016-02-17T10:42:00Z",
+            "description": "<ul><li>Estado: Operativa</li><li>Bicis disponibles: 12</li><li>Anclajes disponibles: 9</li></ul><p>Actualizado: 10:42</p>",
+            "icon": "http://www.zaragoza.es/contenidos/iconos/bizi/conbicis.png"
+        },
+        {
+            "id": "125",
+            "uri": "http://www.zaragoza.es/ciudad/viapublica/movilidad/bici/detalle_Bizi?oid=125",
+            "title": "Via Univérsitas - C/ Hermanos Gambra",
+            "estado": "OPN",
+            "bicisDisponibles": 6,
+            "anclajesDisponibles": 15,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    674209.1338063633,
+                    4613140.443152811
+                ]
+            },
+            "lastUpdated": "2016-02-17T10:42:00Z",
+            "description": "<ul><li>Estado: Operativa</li><li>Bicis disponibles: 6</li><li>Anclajes disponibles: 15</li></ul><p>Actualizado: 10:42</p>",
+            "icon": "http://www.zaragoza.es/contenidos/iconos/bizi/conbicis.png"
+        },
+        {
+            "id": "127",
+            "uri": "http://www.zaragoza.es/ciudad/viapublica/movilidad/bici/detalle_Bizi?oid=127",
+            "title": "Avda. Navarra - C/ Rioja",
+            "estado": "OPN",
+            "bicisDisponibles": 9,
+            "anclajesDisponibles": 12,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    674246.138705967,
+                    4613850.809511608
+                ]
+            },
+            "lastUpdated": "2016-02-17T10:42:00Z",
+            "description": "<ul><li>Estado: Operativa</li><li>Bicis disponibles: 9</li><li>Anclajes disponibles: 12</li></ul><p>Actualizado: 10:42</p>",
+            "icon": "http://www.zaragoza.es/contenidos/iconos/bizi/conbicis.png"
+        },
+        {
+            "id": "129",
+            "uri": "http://www.zaragoza.es/ciudad/viapublica/movilidad/bici/detalle_Bizi?oid=129",
+            "title": "C/ Graus - C/ Unceta",
+            "estado": "OPN",
+            "bicisDisponibles": 6,
+            "anclajesDisponibles": 15,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    674776.6682624074,
+                    4613537.967226235
+                ]
+            },
+            "lastUpdated": "2016-02-17T10:42:00Z",
+            "description": "<ul><li>Estado: Operativa</li><li>Bicis disponibles: 6</li><li>Anclajes disponibles: 15</li></ul><p>Actualizado: 10:42</p>",
+            "icon": "http://www.zaragoza.es/contenidos/iconos/bizi/conbicis.png"
+        },
+        {
+            "id": "130",
+            "uri": "http://www.zaragoza.es/ciudad/viapublica/movilidad/bici/detalle_Bizi?oid=130",
+            "title": "C/ Corona de Aragón - C/ Lorente",
+            "estado": "OPN",
+            "bicisDisponibles": 13,
+            "anclajesDisponibles": 8,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    675169.6621584316,
+                    4612596.989091256
+                ]
+            },
+            "lastUpdated": "2016-02-17T10:42:00Z",
+            "description": "<ul><li>Estado: Operativa</li><li>Bicis disponibles: 13</li><li>Anclajes disponibles: 8</li></ul><p>Actualizado: 10:42</p>",
+            "icon": "http://www.zaragoza.es/contenidos/iconos/bizi/conbicis.png"
+        },
+        {
+            "id": "1",
+            "uri": "http://www.zaragoza.es/ciudad/viapublica/movilidad/bici/detalle_Bizi?oid=1",
+            "title": "Avda. Pablo Ruiz Picasso - Torre del Agua",
+            "estado": "OPN",
+            "bicisDisponibles": 15,
+            "anclajesDisponibles": 9,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    674531.7776761394,
+                    4615518.329386774
+                ]
+            },
+            "lastUpdated": "2016-02-17T10:42:00Z",
+            "description": "<ul><li>Estado: Operativa</li><li>Bicis disponibles: 15</li><li>Anclajes disponibles: 9</li></ul><p>Actualizado: 10:42</p>",
+            "icon": "http://www.zaragoza.es/contenidos/iconos/bizi/conbicis.png"
+        },
+        {
+            "id": "2",
+            "uri": "http://www.zaragoza.es/ciudad/viapublica/movilidad/bici/detalle_Bizi?oid=2",
+            "title": "Avda. Ranillas - Avda. Pablo Ruiz Picasso",
+            "estado": "OPN",
+            "bicisDisponibles": 10,
+            "anclajesDisponibles": 10,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    675082.8512086545,
+                    4615741.954081438
+                ]
+            },
+            "lastUpdated": "2016-02-17T10:42:00Z",
+            "description": "<ul><li>Estado: Operativa</li><li>Bicis disponibles: 10</li><li>Anclajes disponibles: 10</li></ul><p>Actualizado: 10:42</p>",
+            "icon": "http://www.zaragoza.es/contenidos/iconos/bizi/conbicis.png"
+        },
+        {
+            "id": "3",
+            "uri": "http://www.zaragoza.es/ciudad/viapublica/movilidad/bici/detalle_Bizi?oid=3",
+            "title": "Pasarela del Voluntariado - Avda. Ranillas",
+            "estado": "OPN",
+            "bicisDisponibles": 7,
+            "anclajesDisponibles": 17,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    675469.635585876,
+                    4615158.24649585
+                ]
+            },
+            "lastUpdated": "2016-02-17T10:42:00Z",
+            "description": "<ul><li>Estado: Operativa</li><li>Bicis disponibles: 7</li><li>Anclajes disponibles: 17</li></ul><p>Actualizado: 10:42</p>",
+            "icon": "http://www.zaragoza.es/contenidos/iconos/bizi/conbicis.png"
+        },
+        {
+            "id": "4",
+            "uri": "http://www.zaragoza.es/ciudad/viapublica/movilidad/bici/detalle_Bizi?oid=4",
+            "title": "Avda. Ranillas - Puente de La Almozara",
+            "estado": "OPN",
+            "bicisDisponibles": 14,
+            "anclajesDisponibles": 7,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    675887.9946791041,
+                    4614631.435627686
+                ]
+            },
+            "lastUpdated": "2016-02-17T10:42:00Z",
+            "description": "<ul><li>Estado: Operativa</li><li>Bicis disponibles: 14</li><li>Anclajes disponibles: 7</li></ul><p>Actualizado: 10:42</p>",
+            "icon": "http://www.zaragoza.es/contenidos/iconos/bizi/conbicis.png"
+        },
+        {
+            "id": "5",
+            "uri": "http://www.zaragoza.es/ciudad/viapublica/movilidad/bici/detalle_Bizi?oid=5",
+            "title": "Pº de la Ribera - Puente de Santiago",
+            "estado": "OPN",
+            "bicisDisponibles": 7,
+            "anclajesDisponibles": 12,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    676521.483524982,
+                    4614439.010262394
+                ]
+            },
+            "lastUpdated": "2016-02-17T10:42:00Z",
+            "description": "<ul><li>Estado: Operativa</li><li>Bicis disponibles: 7</li><li>Anclajes disponibles: 12</li></ul><p>Actualizado: 10:42</p>",
+            "icon": "http://www.zaragoza.es/contenidos/iconos/bizi/conbicis.png"
+        },
+        {
+            "id": "6",
+            "uri": "http://www.zaragoza.es/ciudad/viapublica/movilidad/bici/detalle_Bizi?oid=6",
+            "title": "Pº de la Ribera - Puente del Pilar",
+            "estado": "OPN",
+            "bicisDisponibles": 8,
+            "anclajesDisponibles": 13,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    677458.6056386359,
+                    4614044.937332258
+                ]
+            },
+            "lastUpdated": "2016-02-17T10:42:00Z",
+            "description": "<ul><li>Estado: Operativa</li><li>Bicis disponibles: 8</li><li>Anclajes disponibles: 13</li></ul><p>Actualizado: 10:42</p>",
+            "icon": "http://www.zaragoza.es/contenidos/iconos/bizi/conbicis.png"
+        },
+        {
+            "id": "7",
+            "uri": "http://www.zaragoza.es/ciudad/viapublica/movilidad/bici/detalle_Bizi?oid=7",
+            "title": "Pº Echegaray y Caballero - Pasarela del Huerva",
+            "estado": "OPN",
+            "bicisDisponibles": 9,
+            "anclajesDisponibles": 12,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    677769.8830778005,
+                    4613631.346063166
+                ]
+            },
+            "lastUpdated": "2016-02-17T10:42:00Z",
+            "description": "<ul><li>Estado: Operativa</li><li>Bicis disponibles: 9</li><li>Anclajes disponibles: 12</li></ul><p>Actualizado: 10:42</p>",
+            "icon": "http://www.zaragoza.es/contenidos/iconos/bizi/conbicis.png"
+        },
+        {
+            "id": "8",
+            "uri": "http://www.zaragoza.es/ciudad/viapublica/movilidad/bici/detalle_Bizi?oid=8",
+            "title": "Pº Echegaray y Caballero - Puente del Pilar",
+            "estado": "OPN",
+            "bicisDisponibles": 16,
+            "anclajesDisponibles": 5,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    677403.1636507643,
+                    4613776.593027227
+                ]
+            },
+            "lastUpdated": "2016-02-17T10:42:00Z",
+            "description": "<ul><li>Estado: Operativa</li><li>Bicis disponibles: 16</li><li>Anclajes disponibles: 5</li></ul><p>Actualizado: 10:42</p>",
+            "icon": "http://www.zaragoza.es/contenidos/iconos/bizi/conbicis.png"
+        },
+        {
+            "id": "9",
+            "uri": "http://www.zaragoza.es/ciudad/viapublica/movilidad/bici/detalle_Bizi?oid=9",
+            "title": "Pº Echegaray y Caballero - Puente de Piedra",
+            "estado": "OPN",
+            "bicisDisponibles": 21,
+            "anclajesDisponibles": 8,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    676982.2461119632,
+                    4613971.405242417
+                ]
+            },
+            "lastUpdated": "2016-02-17T10:42:00Z",
+            "description": "<ul><li>Estado: Operativa</li><li>Bicis disponibles: 21</li><li>Anclajes disponibles: 8</li></ul><p>Actualizado: 10:42</p>",
+            "icon": "http://www.zaragoza.es/contenidos/iconos/bizi/conbicis.png"
+        },
+        {
+            "id": "10",
+            "uri": "http://www.zaragoza.es/ciudad/viapublica/movilidad/bici/detalle_Bizi?oid=10",
+            "title": "Pº Echegaray y Caballero - Puente de Santiago",
+            "estado": "OPN",
+            "bicisDisponibles": 18,
+            "anclajesDisponibles": 2,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    676504.2527290656,
+                    4614170.725479681
+                ]
+            },
+            "lastUpdated": "2016-02-17T10:42:00Z",
+            "description": "<ul><li>Estado: Operativa</li><li>Bicis disponibles: 18</li><li>Anclajes disponibles: 2</li></ul><p>Actualizado: 10:42</p>",
+            "icon": "http://www.zaragoza.es/contenidos/iconos/bizi/conbicis.png"
+        },
+        {
+            "id": "11",
+            "uri": "http://www.zaragoza.es/ciudad/viapublica/movilidad/bici/detalle_Bizi?oid=11",
+            "title": "Pº Echegaray y Caballero - Puente de La Almozara",
+            "estado": "OPN",
+            "bicisDisponibles": 4,
+            "anclajesDisponibles": 16,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    675643.0073561185,
+                    4614306.693232718
+                ]
+            },
+            "lastUpdated": "2016-02-17T10:42:00Z",
+            "description": "<ul><li>Estado: Operativa</li><li>Bicis disponibles: 4</li><li>Anclajes disponibles: 16</li></ul><p>Actualizado: 10:42</p>",
+            "icon": "http://www.zaragoza.es/contenidos/iconos/bizi/conbicis.png"
+        },
+        {
+            "id": "12",
+            "uri": "http://www.zaragoza.es/ciudad/viapublica/movilidad/bici/detalle_Bizi?oid=12",
+            "title": "Pasarela del Voluntariado - Avda. Almozara",
+            "estado": "OPN",
+            "bicisDisponibles": 0,
+            "anclajesDisponibles": 21,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    675258.2438197444,
+                    4614764.45746837
+                ]
+            },
+            "lastUpdated": "2016-02-17T10:42:00Z",
+            "description": "<ul><li>Estado: Operativa</li><li>Bicis disponibles: 0</li><li>Anclajes disponibles: 21</li></ul><p>Actualizado: 10:42</p>",
+            "icon": "http://www.zaragoza.es/contenidos/iconos/bizi/sinbicis.png"
+        },
+        {
+            "id": "13",
+            "uri": "http://www.zaragoza.es/ciudad/viapublica/movilidad/bici/detalle_Bizi?oid=13",
+            "title": "C/ Francia - Pabellón Puente",
+            "estado": "OPN",
+            "bicisDisponibles": 17,
+            "anclajesDisponibles": 7,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    674353.7498153094,
+                    4614541.783660298
+                ]
+            },
+            "lastUpdated": "2016-02-17T10:42:00Z",
+            "description": "<ul><li>Estado: Operativa</li><li>Bicis disponibles: 17</li><li>Anclajes disponibles: 7</li></ul><p>Actualizado: 10:42</p>",
+            "icon": "http://www.zaragoza.es/contenidos/iconos/bizi/conbicis.png"
+        },
+        {
+            "id": "14",
+            "uri": "http://www.zaragoza.es/ciudad/viapublica/movilidad/bici/detalle_Bizi?oid=14",
+            "title": "Estación Intermodal Delicias (Salidas)",
+            "estado": "OPN",
+            "bicisDisponibles": 19,
+            "anclajesDisponibles": 11,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    674227.3492706296,
+                    4614154.64966946
+                ]
+            },
+            "lastUpdated": "2016-02-17T10:42:00Z",
+            "description": "<ul><li>Estado: Operativa</li><li>Bicis disponibles: 19</li><li>Anclajes disponibles: 11</li></ul><p>Actualizado: 10:42</p>",
+            "icon": "http://www.zaragoza.es/contenidos/iconos/bizi/conbicis.png"
+        },
+        {
+            "id": "15",
+            "uri": "http://www.zaragoza.es/ciudad/viapublica/movilidad/bici/detalle_Bizi?oid=15",
+            "title": "Estación de Cercanías El Portillo ",
+            "estado": "OPN",
+            "bicisDisponibles": 8,
+            "anclajesDisponibles": 13,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    675329.9923329047,
+                    4613409.474988687
+                ]
+            },
+            "lastUpdated": "2016-02-17T10:42:00Z",
+            "description": "<ul><li>Estado: Operativa</li><li>Bicis disponibles: 8</li><li>Anclajes disponibles: 13</li></ul><p>Actualizado: 10:42</p>",
+            "icon": "http://www.zaragoza.es/contenidos/iconos/bizi/conbicis.png"
+        },
+        {
+            "id": "16",
+            "uri": "http://www.zaragoza.es/ciudad/viapublica/movilidad/bici/detalle_Bizi?oid=16",
+            "title": "Plaza España",
+            "estado": "OPN",
+            "bicisDisponibles": 15,
+            "anclajesDisponibles": 12,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    676582.2035544008,
+                    4613504.823403645
+                ]
+            },
+            "lastUpdated": "2016-02-17T10:42:00Z",
+            "description": "<ul><li>Estado: Operativa</li><li>Bicis disponibles: 15</li><li>Anclajes disponibles: 12</li></ul><p>Actualizado: 10:42</p>",
+            "icon": "http://www.zaragoza.es/contenidos/iconos/bizi/conbicis.png"
+        },
+        {
+            "id": "17",
+            "uri": "http://www.zaragoza.es/ciudad/viapublica/movilidad/bici/detalle_Bizi?oid=17",
+            "title": "Pº Constitución - Plaza Aragón ",
+            "estado": "OPN",
+            "bicisDisponibles": 30,
+            "anclajesDisponibles": 0,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    676293.4849388119,
+                    4613036.333235371
+                ]
+            },
+            "lastUpdated": "2016-02-17T10:42:00Z",
+            "description": "<ul><li>Estado: Operativa</li><li>Bicis disponibles: 30</li><li>Anclajes disponibles: 0</li></ul><p>Actualizado: 10:42</p>",
+            "icon": "http://www.zaragoza.es/contenidos/iconos/bizi/conbicis.png"
+        },
+        {
+            "id": "18",
+            "uri": "http://www.zaragoza.es/ciudad/viapublica/movilidad/bici/detalle_Bizi?oid=18",
+            "title": "C/ Asalto - Edificio Trovador",
+            "estado": "OPN",
+            "bicisDisponibles": 9,
+            "anclajesDisponibles": 11,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    677485.1699573447,
+                    4613408.545050462
+                ]
+            },
+            "lastUpdated": "2016-02-17T10:42:00Z",
+            "description": "<ul><li>Estado: Operativa</li><li>Bicis disponibles: 9</li><li>Anclajes disponibles: 11</li></ul><p>Actualizado: 10:42</p>",
+            "icon": "http://www.zaragoza.es/contenidos/iconos/bizi/conbicis.png"
+        },
+        {
+            "id": "19",
+            "uri": "http://www.zaragoza.es/ciudad/viapublica/movilidad/bici/detalle_Bizi?oid=19",
+            "title": "C/ Asalto - C/ Miguel Servet ",
+            "estado": "OPN",
+            "bicisDisponibles": 14,
+            "anclajesDisponibles": 6,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    677009.1305011907,
+                    4613188.480893311
+                ]
+            },
+            "lastUpdated": "2016-02-17T10:42:00Z",
+            "description": "<ul><li>Estado: Operativa</li><li>Bicis disponibles: 14</li><li>Anclajes disponibles: 6</li></ul><p>Actualizado: 10:42</p>",
+            "icon": "http://www.zaragoza.es/contenidos/iconos/bizi/conbicis.png"
+        },
+        {
+            "id": "20",
+            "uri": "http://www.zaragoza.es/ciudad/viapublica/movilidad/bici/detalle_Bizi?oid=20",
+            "title": "Plaza Salamero, 14",
+            "estado": "OPN",
+            "bicisDisponibles": 17,
+            "anclajesDisponibles": 4,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    676280.2924439493,
+                    4613553.287068226
+                ]
+            },
+            "lastUpdated": "2016-02-17T10:42:00Z",
+            "description": "<ul><li>Estado: Operativa</li><li>Bicis disponibles: 17</li><li>Anclajes disponibles: 4</li></ul><p>Actualizado: 10:42</p>",
+            "icon": "http://www.zaragoza.es/contenidos/iconos/bizi/conbicis.png"
+        },
+        {
+            "id": "21",
+            "uri": "http://www.zaragoza.es/ciudad/viapublica/movilidad/bici/detalle_Bizi?oid=21",
+            "title": "Avda. César Augusto - Avda. Conde Aranda",
+            "estado": "OPN",
+            "bicisDisponibles": 19,
+            "anclajesDisponibles": 0,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    676275.2698373196,
+                    4613774.806717714
+                ]
+            },
+            "lastUpdated": "2016-02-17T10:42:00Z",
+            "description": "<ul><li>Estado: Operativa</li><li>Bicis disponibles: 19</li><li>Anclajes disponibles: 0</li></ul><p>Actualizado: 10:42</p>",
+            "icon": "http://www.zaragoza.es/contenidos/iconos/bizi/conbicis.png"
+        },
+        {
+            "id": "22",
+            "uri": "http://www.zaragoza.es/ciudad/viapublica/movilidad/bici/detalle_Bizi?oid=22",
+            "title": "Estación Intermodal Delicias (Llegadas)",
+            "estado": "OPN",
+            "bicisDisponibles": 7,
+            "anclajesDisponibles": 23,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    673760.3177675647,
+                    4614266.757959997
+                ]
+            },
+            "lastUpdated": "2016-02-17T10:42:00Z",
+            "description": "<ul><li>Estado: Operativa</li><li>Bicis disponibles: 7</li><li>Anclajes disponibles: 23</li></ul><p>Actualizado: 10:42</p>",
+            "icon": "http://www.zaragoza.es/contenidos/iconos/bizi/conbicis.png"
+        },
+        {
+            "id": "23",
+            "uri": "http://www.zaragoza.es/ciudad/viapublica/movilidad/bici/detalle_Bizi?oid=23",
+            "title": "Pº de La Ribera - Pasarela Azud",
+            "estado": "OPN",
+            "bicisDisponibles": 8,
+            "anclajesDisponibles": 13,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    678460.7452327413,
+                    4613654.374655051
+                ]
+            },
+            "lastUpdated": "2016-02-17T10:42:00Z",
+            "description": "<ul><li>Estado: Operativa</li><li>Bicis disponibles: 8</li><li>Anclajes disponibles: 13</li></ul><p>Actualizado: 10:42</p>",
+            "icon": "http://www.zaragoza.es/contenidos/iconos/bizi/conbicis.png"
+        },
+        {
+            "id": "24",
+            "uri": "http://www.zaragoza.es/ciudad/viapublica/movilidad/bici/detalle_Bizi?oid=24",
+            "title": "Plaza San Pedro Nolasco",
+            "estado": "OPN",
+            "bicisDisponibles": 11,
+            "anclajesDisponibles": 9,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    676875.6737743317,
+                    4613589.483909276
+                ]
+            },
+            "lastUpdated": "2016-02-17T10:42:00Z",
+            "description": "<ul><li>Estado: Operativa</li><li>Bicis disponibles: 11</li><li>Anclajes disponibles: 9</li></ul><p>Actualizado: 10:42</p>",
+            "icon": "http://www.zaragoza.es/contenidos/iconos/bizi/conbicis.png"
+        },
+        {
+            "id": "25",
+            "uri": "http://www.zaragoza.es/ciudad/viapublica/movilidad/bici/detalle_Bizi?oid=25",
+            "title": "Plaza de los Sitios ",
+            "estado": "OPN",
+            "bicisDisponibles": 19,
+            "anclajesDisponibles": 0,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    676648.6412621725,
+                    4613117.609568934
+                ]
+            },
+            "lastUpdated": "2016-02-17T10:42:00Z",
+            "description": "<ul><li>Estado: Operativa</li><li>Bicis disponibles: 19</li><li>Anclajes disponibles: 0</li></ul><p>Actualizado: 10:42</p>",
+            "icon": "http://www.zaragoza.es/contenidos/iconos/bizi/conbicis.png"
+        },
+        {
+            "id": "26",
+            "uri": "http://www.zaragoza.es/ciudad/viapublica/movilidad/bici/detalle_Bizi?oid=26",
+            "title": "Pº Pamplona - Puerta del Carmen",
+            "estado": "OPN",
+            "bicisDisponibles": 19,
+            "anclajesDisponibles": 2,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    676049.8715700008,
+                    4613211.225377172
+                ]
+            },
+            "lastUpdated": "2016-02-17T10:42:00Z",
+            "description": "<ul><li>Estado: Operativa</li><li>Bicis disponibles: 19</li><li>Anclajes disponibles: 2</li></ul><p>Actualizado: 10:42</p>",
+            "icon": "http://www.zaragoza.es/contenidos/iconos/bizi/conbicis.png"
+        },
+        {
+            "id": "27",
+            "uri": "http://www.zaragoza.es/ciudad/viapublica/movilidad/bici/detalle_Bizi?oid=27",
+            "title": "Pº Mª Agustín - Colegio Joaquín Costa",
+            "estado": "OPN",
+            "bicisDisponibles": 7,
+            "anclajesDisponibles": 14,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    675682.3195447342,
+                    4613483.302453537
+                ]
+            },
+            "lastUpdated": "2016-02-17T10:42:00Z",
+            "description": "<ul><li>Estado: Operativa</li><li>Bicis disponibles: 7</li><li>Anclajes disponibles: 14</li></ul><p>Actualizado: 10:42</p>",
+            "icon": "http://www.zaragoza.es/contenidos/iconos/bizi/conbicis.png"
+        },
+        {
+            "id": "28",
+            "uri": "http://www.zaragoza.es/ciudad/viapublica/movilidad/bici/detalle_Bizi?oid=28",
+            "title": "Plaza del Portillo - Plaza de Toros",
+            "estado": "OPN",
+            "bicisDisponibles": 7,
+            "anclajesDisponibles": 14,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    675620.8765705475,
+                    4613838.870355027
+                ]
+            },
+            "lastUpdated": "2016-02-17T10:42:00Z",
+            "description": "<ul><li>Estado: Operativa</li><li>Bicis disponibles: 7</li><li>Anclajes disponibles: 14</li></ul><p>Actualizado: 10:42</p>",
+            "icon": "http://www.zaragoza.es/contenidos/iconos/bizi/conbicis.png"
+        },
+        {
+            "id": "29",
+            "uri": "http://www.zaragoza.es/ciudad/viapublica/movilidad/bici/detalle_Bizi?oid=29",
+            "title": "Avda. Madrid - Aljafería",
+            "estado": "OPN",
+            "bicisDisponibles": 5,
+            "anclajesDisponibles": 16,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    675242.2729886677,
+                    4613893.277580566
+                ]
+            },
+            "lastUpdated": "2016-02-17T10:42:00Z",
+            "description": "<ul><li>Estado: Operativa</li><li>Bicis disponibles: 5</li><li>Anclajes disponibles: 16</li></ul><p>Actualizado: 10:42</p>",
+            "icon": "http://www.zaragoza.es/contenidos/iconos/bizi/conbicis.png"
+        },
+        {
+            "id": "30",
+            "uri": "http://www.zaragoza.es/ciudad/viapublica/movilidad/bici/detalle_Bizi?oid=30",
+            "title": "Avda. Pablo Gargallo - Avda. Puerta Sancho",
+            "estado": "OPN",
+            "bicisDisponibles": 4,
+            "anclajesDisponibles": 17,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    674828.098925371,
+                    4614498.440154144
+                ]
+            },
+            "lastUpdated": "2016-02-17T10:42:00Z",
+            "description": "<ul><li>Estado: Operativa</li><li>Bicis disponibles: 4</li><li>Anclajes disponibles: 17</li></ul><p>Actualizado: 10:42</p>",
+            "icon": "http://www.zaragoza.es/contenidos/iconos/bizi/conbicis.png"
+        },
+        {
+            "id": "31",
+            "uri": "http://www.zaragoza.es/ciudad/viapublica/movilidad/bici/detalle_Bizi?oid=31",
+            "title": "Avda. Pablo Gargallo - C/ Ignacio Menaya",
+            "estado": "OPN",
+            "bicisDisponibles": 3,
+            "anclajesDisponibles": 18,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    675300.9241561614,
+                    4614364.322915688
+                ]
+            },
+            "lastUpdated": "2016-02-17T10:42:00Z",
+            "description": "<ul><li>Estado: Operativa</li><li>Bicis disponibles: 3</li><li>Anclajes disponibles: 18</li></ul><p>Actualizado: 10:42</p>",
+            "icon": "http://www.zaragoza.es/contenidos/iconos/bizi/conbicis.png"
+        },
+        {
+            "id": "32",
+            "uri": "http://www.zaragoza.es/ciudad/viapublica/movilidad/bici/detalle_Bizi?oid=32",
+            "title": "C/ Ramón y Cajal - C/ Madre Rafols",
+            "estado": "OPN",
+            "bicisDisponibles": 21,
+            "anclajesDisponibles": 0,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    676094.9231835532,
+                    4613477.412387599
+                ]
+            },
+            "lastUpdated": "2016-02-17T10:42:00Z",
+            "description": "<ul><li>Estado: Operativa</li><li>Bicis disponibles: 21</li><li>Anclajes disponibles: 0</li></ul><p>Actualizado: 10:42</p>",
+            "icon": "http://www.zaragoza.es/contenidos/iconos/bizi/conbicis.png"
+        },
+        {
+            "id": "33",
+            "uri": "http://www.zaragoza.es/ciudad/viapublica/movilidad/bici/detalle_Bizi?oid=33",
+            "title": "Plaza del Pilar - Edificio Turismo ",
+            "estado": "OPN",
+            "bicisDisponibles": 17,
+            "anclajesDisponibles": 4,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    676787.9508470905,
+                    4613916.956012998
+                ]
+            },
+            "lastUpdated": "2016-02-17T10:42:00Z",
+            "description": "<ul><li>Estado: Operativa</li><li>Bicis disponibles: 17</li><li>Anclajes disponibles: 4</li></ul><p>Actualizado: 10:42</p>",
+            "icon": "http://www.zaragoza.es/contenidos/iconos/bizi/conbicis.png"
+        },
+        {
+            "id": "34",
+            "uri": "http://www.zaragoza.es/ciudad/viapublica/movilidad/bici/detalle_Bizi?oid=34",
+            "title": "Plaza Magdalena",
+            "estado": "OPN",
+            "bicisDisponibles": 12,
+            "anclajesDisponibles": 9,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    677195.2331748571,
+                    4613545.258063194
+                ]
+            },
+            "lastUpdated": "2016-02-17T10:42:00Z",
+            "description": "<ul><li>Estado: Operativa</li><li>Bicis disponibles: 12</li><li>Anclajes disponibles: 9</li></ul><p>Actualizado: 10:42</p>",
+            "icon": "http://www.zaragoza.es/contenidos/iconos/bizi/conbicis.png"
+        },
+        {
+            "id": "35",
+            "uri": "http://www.zaragoza.es/ciudad/viapublica/movilidad/bici/detalle_Bizi?oid=35",
+            "title": "Pº Echegaray y Caballero - C/ Salvador Minguijón",
+            "estado": "OPN",
+            "bicisDisponibles": 4,
+            "anclajesDisponibles": 17,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    678253.8887429056,
+                    4613481.584281914
+                ]
+            },
+            "lastUpdated": "2016-02-17T10:42:00Z",
+            "description": "<ul><li>Estado: Operativa</li><li>Bicis disponibles: 4</li><li>Anclajes disponibles: 17</li></ul><p>Actualizado: 10:42</p>",
+            "icon": "http://www.zaragoza.es/contenidos/iconos/bizi/conbicis.png"
+        }
+    ]
+}
